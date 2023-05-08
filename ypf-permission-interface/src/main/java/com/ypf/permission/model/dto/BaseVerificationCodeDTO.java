@@ -1,4 +1,4 @@
-package com.ypf.permission.model.param;
+package com.ypf.permission.model.dto;
 
 import lombok.Data;
 

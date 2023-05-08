@@ -1,8 +1,8 @@
-package com.ypf.permission.api;
+package com.ypf.permission.api.rpc;
 
 import com.ypf.common.response.ServiceResponse;
-import com.ypf.permission.model.param.VerificationCodeCheckDTO;
-import com.ypf.permission.model.param.VerificationCodeGenerateDTO;
+import com.ypf.permission.model.dto.VerificationCodeCheckDTO;
+import com.ypf.permission.model.dto.VerificationCodeGenerateDTO;
 
 /**
  * @author ypf
